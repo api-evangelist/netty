@@ -1,0 +1,43 @@
+{
+    "name": "Netty",
+    "description": "<p>Netty is an asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers &amp; clients. Netty is a NIO client server framework which enables quick and easy development of network applications such as protocol servers and clients. It greatly simplifies and streamlines network programming such as TCP and UDP socket server.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/netty-project.png",
+    "tags": [
+        "api service provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/netty\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Netty",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/netty-project.png",
+            "humanURL": "http:\/\/netty.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": []
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/netty_project"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/netty\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/netty_project"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/netty.io\/"
+        }
+    ]
+}
